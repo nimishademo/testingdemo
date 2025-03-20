@@ -1,4 +1,4 @@
 # testingdemo
 This is my first git repo
 <br>
-Author = Nimisha
+Author = Nimisha Mathur
